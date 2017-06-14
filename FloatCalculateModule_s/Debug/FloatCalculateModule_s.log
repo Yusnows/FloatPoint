@@ -1,0 +1,9 @@
+﻿  Str2Binary.cpp
+e:\users\yusnows\courses\major requiired courses\core courses\mcu&interface\programmingpratice\floatcalculatemodule_s\floatcalculatemodule_s\str2binary.cpp(147): warning C4018: '<': signed/unsigned mismatch
+e:\users\yusnows\courses\major requiired courses\core courses\mcu&interface\programmingpratice\floatcalculatemodule_s\floatcalculatemodule_s\str2binary.cpp(150): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  FloatModule.cpp
+  Generating Code...
+e:\users\yusnows\courses\major requiired courses\core courses\mcu&interface\programmingpratice\floatcalculatemodule_s\floatcalculatemodule_s\str2binary.cpp(193): warning C4172: returning address of local variable or temporary: temp_int
+  FloatCalculateModule_s.vcxproj -> E:\Users\Yusnows\Courses\Major Requiired Courses\Core Courses\MCU&Interface\ProgrammingPratice\FloatCalculateModule_s\Debug\FloatCalculateModule_s.exe
+  FloatCalculateModule_s.vcxproj -> E:\Users\Yusnows\Courses\Major Requiired Courses\Core Courses\MCU&Interface\ProgrammingPratice\FloatCalculateModule_s\Debug\FloatCalculateModule_s.pdb (Full PDB)

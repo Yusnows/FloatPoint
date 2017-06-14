@@ -1,0 +1,10 @@
+﻿  FloatModule.cpp
+  main.cpp
+  Str2Binary.cpp
+Str2Binary.cpp(152): warning C4267: '=': conversion from 'size_t' to 'volatile int', possible loss of data
+  Generating code
+e:\users\yusnows\courses\major requiired courses\core courses\mcu&interface\programmingpratice\floatcalculatemodule_s\floatcalculatemodule_s\str2binary.cpp(193): warning C4172: returning address of local variable or temporary: temp_int
+  All 159 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FloatCalculateModule_s.vcxproj -> E:\Users\Yusnows\Courses\Major Requiired Courses\Core Courses\MCU&Interface\ProgrammingPratice\FloatCalculateModule_s\x64\Release\FloatCalculateModule_s.exe
+  FloatCalculateModule_s.vcxproj -> E:\Users\Yusnows\Courses\Major Requiired Courses\Core Courses\MCU&Interface\ProgrammingPratice\FloatCalculateModule_s\x64\Release\FloatCalculateModule_s.pdb (Full PDB)
